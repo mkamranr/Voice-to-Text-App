@@ -1,0 +1,6 @@
+whisper
+pyannote.audio
+pydub
+torch
+torchaudio
+ffmpeg-python
